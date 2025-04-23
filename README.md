@@ -1,0 +1,1 @@
+This is my first React project. I created a travel journal of some of the places I have visited. This project gave me the opportunity to build a React project from scratch and work on props. 
